@@ -1,3 +1,2 @@
-# UMC 7th 덕성여대
-
-UMC 7기 덕성여대 챌린저의 워크북 미션 제출용 레포입니다.
+# UMC-7th-spring-workbook
+>>>>>>> 2b0275b (init: initial commit)
