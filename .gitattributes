@@ -1,0 +1,8 @@
+# 모든 텍스트 파일은 LF 형식으로 커밋되지만, Windows에서는 CRLF로 체크아웃
+* text=auto
+
+# 쉘 스크립트 파일은 LF로만 유지
+*.sh text eol=lf
+
+# Gradle 관련 파일들은 LF로만 유지
+*.gradle text eol=lf
